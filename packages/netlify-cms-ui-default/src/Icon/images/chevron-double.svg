@@ -1,8 +1,1 @@
-<svg viewBox="0 0 24 24">
-  <g id="caret" transform="translate(2.000000, 3.000000)" fill-rule="nonzero">
-      <polygon points="3.1231456 0.32943568 0.86323447 2.46718624 9.5186981 11.6172615 18.8632345 2.5123409 16.6923073 0.28428102 9.6090173 7.1859389"/>
-  </g>
-  <g id="caret" transform="translate(2.000000, 10.000000)" fill-rule="nonzero">
-      <polygon points="3.1231456 0.32943568 0.86323447 2.46718624 9.5186981 11.6172615 18.8632345 2.5123409 16.6923073 0.28428102 9.6090173 7.1859389"/>
-  </g>
-</svg>
+<svg viewBox="0 0 24 24"><g id="caret" fill-rule="nonzero" transform="translate(2.000000, 3.000000)"><polygon points="3.123 .329 .863 2.467 9.519 11.617 18.863 2.512 16.692 .284 9.609 7.186"/></g><g id="caret" fill-rule="nonzero" transform="translate(2.000000, 10.000000)"><polygon points="3.123 .329 .863 2.467 9.519 11.617 18.863 2.512 16.692 .284 9.609 7.186"/></g></svg>
